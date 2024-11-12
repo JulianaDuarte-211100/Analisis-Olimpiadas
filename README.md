@@ -21,12 +21,12 @@ Este conjunto de datos contiene registros detallados de los eventos olímpicos y
 
 Se desea llevar a cabo el analisis de este Datasets ya que actualmente soy jugadora federada de Basquet Femenino en primera división, por lo que siempre trato de informarme, analizar y conocer metricas tanto propias del basquet como en otros deportes en general.
 
-##Fuente
+## Fuente
 
 https://www.kaggle.com/datasets/harshvgh/olympics?resource=download
 
 
-##Objetivos a evaluar como guía para el analisis de graficos
+## Objetivos a evaluar como guía para el analisis de graficos
 
 1)Evaluar si la mayoría de los atletas olímpicos se encuentran en el rango de edad de 18 a 25 años, reflejando el pico de rendimiento físico en deportes competitivos y finalizando su actividad a los 50 años, y evaluar si la participación de menores de 18 años representa la proporción más pequeña debido a las altas exigencias del rendimiento.
 
@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/harshvgh/olympics?resource=download
 
 
 
-##Hipotesis general
+## Hipotesis general
 
 "La mayoría de los participantes en las Olimpiadas se concentra en un rango etario promedio de 23 años, con una edad máxima de alrededor de 50 años, ademas en el Top 10 de los deportes con mayor cantidad de medallas, la participación masculina continúa siendo predominantemente superior, aunque en los últimos años la proporción de hombres y mujeres se ha equilibrado en comparación con décadas anteriores.
 Por otro lado, la media de las alturas difieren considerablemente entre géneros, y no se observa una relación clara entre altura y peso en la mayoría de los casos"
